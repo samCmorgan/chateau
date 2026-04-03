@@ -1,0 +1,13 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large raw video/media files (use YouTube or external storage instead)
+*.mp4
+*.mov
+*.avi
+*.raw
+
+# Temporary files
+*.tmp
+*.bak
